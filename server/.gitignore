@@ -1,0 +1,54 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+server/big-axiom-457001-f3-ffd0f54ffdb0.json
+server/sample.mp3
+
+# -----------------------
+# Visual Studio / .NET
+# -----------------------
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.log
+
+# -----------------------
+# Environment / Secrets
+# -----------------------
+*.env
+.env.local
+.env.*.local
+server/big-axiom-*.json
+*.pem
+*.key
+*.crt
+*.p12
+
+# -----------------------
+# Database / Cache
+# -----------------------
+*.db
+*.sqlite
+*.sqlite3
+*.cache
+
+# -----------------------
+# React / Frontend
+# -----------------------
+
+
+# -----------------------
+# OS / IDE / Misc
+# -----------------------
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+
+# Python virtual environments
+venv/
+ENV/
+env/
